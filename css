@@ -1,0 +1,71 @@
+h1,
+h2,
+h3
+{
+    font-size: 55px;
+    font-family: "Freestyle Script";
+    font-style: italic;
+    color: #705155;
+}
+
+p {
+    font-size: 25px;
+    font-family: "Caldina", "Times New Roman";
+    color: #fff;
+}
+
+.header {
+    background-color: #B07F86;
+}
+
+body {
+    background-color: #CFC6DB;
+}
+a {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #705155;
+}
+
+
+img {
+    border-radius: 50%;
+}
+
+.funfacts {
+    background-color: #F0ACB6;
+}
+
+li {
+    font-size: 25px;
+    color: #fff;
+}
+
+body {
+    background-image: url="";
+}
+
+.aboutme {
+    background-color: #FCB6C0;
+}
+
+.aboutme p{
+    background-color: #FCB6C0;
+    font-size: 25px;
+}
+
+.goals {
+    background-color: #FCB6C0;
+}
+
+footer {
+    background-color: #705155;
+    font-size: 25px;
+}
+
+.personalinfo {
+    color: #705155
+}
